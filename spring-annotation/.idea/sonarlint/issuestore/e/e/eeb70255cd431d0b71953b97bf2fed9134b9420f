@@ -1,0 +1,49 @@
+
+T	java:S106m"9Replace this use of System.out or System.err by a logger.(ÈÒ†-8 Ô¼“Ó/
+U	java:S106™"9Replace this use of System.out or System.err by a logger.(ÈÒ†-8 Ô¼“Ó/
+T
+java:S1444"2Make this "public static URLTOCONNECT" field final(¹ïÑ‹ùÿÿÿÿ8·§ÃÓ/
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(ÌòÜñÿÿÿÿÿ8 Ô¼“Ó/
+f
+java:S1192O"IDefine a constant instead of duplicating this literal "dd/MM/yy" 3 times.(åÈŞô8 Ô¼“Ó/
+V	java:S106˜"9Replace this use of System.out or System.err by a logger.(ø›óä8 Ô¼“Ó/
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(ÿüßôıÿÿÿÿ8 Ô¼“Ó/
+m	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãõ½·8 Ô¼“Ó/
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‚‡÷şÿÿÿÿ8 Ô¼“Ó/
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(Ó––Šûÿÿÿÿ8ı›Ó/
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(‘øÒõûÿÿÿÿ8 Ô¼“Ó/
+R
+java:S1128	"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8 Ô¼“Ó/
+]	java:S125*"<This block of commented-out lines of code should be removed.(—ü¿çşÿÿÿÿ8ı›Ó/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(¬í·ºüÿÿÿÿ8ı›Ó/
+y
+java:S3008"WRename this field "URLTOCONNECT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ïÑ‹ùÿÿÿÿ8·§ÃÓ/
+[	java:S106š"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8 Ô¼“Ó/
+i
+java:S1192I"GDefine a constant instead of duplicating this literal "amount" 5 times.(Ì¶’úÿÿÿÿ8 Ô¼“Ó/
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8 Ô¼“Ó/
+Q
+java:S1172C"4Remove this unused method parameter "accountNumber".(ÅÌ«â8 Ô¼“Ó/
+m	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÙÉá8 Ô¼“Ó/
+J
+java:S14812"(Remove this unused "app" local variable.(æÄ¢İúÿÿÿÿ8 Ô¼“Ó/
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8 Ô¼“Ó/
+V	java:S106§"9Replace this use of System.out or System.err by a logger.(ÚÏñõ8 Ô¼“Ó/
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(Ãú¶©8 Ô¼“Ó/
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(úøÀÍúÿÿÿÿ8 Ô¼“Ó/
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8 Ô¼“Ó/
+W
+java:S1854M":Remove this useless assignment to local variable "Action".(Ãõ½·8ñà¿“Ó/
+`
+java:S1854P"CRemove this useless assignment to local variable "transactionDate".(¬ú§8ñà¿“Ó/
+Y
+java:S1854Q"7Remove this useless assignment to local variable "app".(æÄ¢İúÿÿÿÿ8ñà¿“Ó/
+X	java:S125R"<This block of commented-out lines of code should be removed.(Äö¬–8ñà¿“Ó/
+H
+java:S1481M"+Remove this unused "Action" local variable.(Ãõ½·8ñà¿“Ó/
+Q
+java:S1481P"4Remove this unused "transactionDate" local variable.(¬ú§8ñà¿“Ó/
+J
+java:S1481Q"(Remove this unused "app" local variable.(æÄ¢İúÿÿÿÿ8ñà¿“Ó/
