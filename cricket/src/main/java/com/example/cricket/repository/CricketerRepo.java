@@ -35,8 +35,18 @@ public class CricketerRepo {
     {
 
         qry="Select * from cricketer";
-        cricketer=jdbcTemplate.query(qry, cricketerMapper);
-        return cricketer;
+        return jdbcTemplate.query(qry,new RowMapper<Cricketer>() {
+            @Override
+            public Cricketer mapRow(ResultSet rs, int rowNum) throws SQLException {
+                Cricketer theCricketer =new Cricketer();
+                theCricketer.setId(rs.getInt("id"));
+                theCricketer.setName(rs.getString("name"));
+                theCricketer.setRole(rs.getString("role"));
+
+                return theCricketer;
+            }
+        });
+        
 
 
     }
